@@ -5,6 +5,8 @@ git config --global alias.fscpush "push origin fsc-claude"
 git config --global alias.lg "log --graph --oneline --decorate --all"
 git config --global alias.back "reset --soft"
 git config --global alias.snap "reset --hard"
+git config --global alias.diff "diff"
+git config --global alias.add "add ."
 
 # 1.1 Các phím tắt Update & Sync (Mới)
 # Cập nhật từ chính nhánh đang đứng
